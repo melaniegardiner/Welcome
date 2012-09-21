@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Welcome</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="welcome">Welcome to Android App Development</string>
+    <string name="bugDescription">A cute bug with 2 thumbs up</string>
+    <string name="droidDescription">Green android icon</string>
+
+</resources>
